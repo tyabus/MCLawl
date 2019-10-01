@@ -1,0 +1,11 @@
+MCLawl/bin
+MCLawl/obj
+*.dll
+*.pdb
+*.obj
+*.o
+*.exe
+*.bak
+*.log
+*.pdb
+!MySql.Data.dll

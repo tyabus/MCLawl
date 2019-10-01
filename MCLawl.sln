@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCLawl_", "MCLawl\MCLawl_.csproj", "{12597DB0-7C34-4DE1-88EA-9250FF3372EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "MCLawl\Starter.csproj", "{63DCBB31-92CD-4464-A86C-A7E51A5FE9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12597DB0-7C34-4DE1-88EA-9250FF3372EB}.Debug|x86.ActiveCfg = Debug|x86
+		{12597DB0-7C34-4DE1-88EA-9250FF3372EB}.Debug|x86.Build.0 = Debug|x86
+		{12597DB0-7C34-4DE1-88EA-9250FF3372EB}.Release|x86.ActiveCfg = Release|x86
+		{12597DB0-7C34-4DE1-88EA-9250FF3372EB}.Release|x86.Build.0 = Release|x86
+		{63DCBB31-92CD-4464-A86C-A7E51A5FE9FE}.Debug|x86.ActiveCfg = Debug|x86
+		{63DCBB31-92CD-4464-A86C-A7E51A5FE9FE}.Debug|x86.Build.0 = Debug|x86
+		{63DCBB31-92CD-4464-A86C-A7E51A5FE9FE}.Release|x86.ActiveCfg = Release|x86
+		{63DCBB31-92CD-4464-A86C-A7E51A5FE9FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71DB4AC5-DA9F-4CA8-BBD6-7A535CB6B0FC}
+	EndGlobalSection
+EndGlobal
