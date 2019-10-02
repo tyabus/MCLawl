@@ -5,6 +5,7 @@ MCLawl/obj
 *.obj
 *.o
 *.exe
+*.user
 *.bak
 *.log
 *.pdb
